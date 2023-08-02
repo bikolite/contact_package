@@ -1,0 +1,19 @@
+{
+    "name": "naeem/contact",
+    "description": "Test Package Project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bikolite",
+            "email": "mohammad.naeemislam.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bikolite\\Contact\\": "src/"
+        }
+    }
+}
