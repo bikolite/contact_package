@@ -15,5 +15,12 @@
         "psr-4": {
             "Bikolite\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bikolite\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
